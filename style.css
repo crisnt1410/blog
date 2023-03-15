@@ -38,7 +38,7 @@ canvas {
     color: white;
     background: rgb(29, 30, 36);
     padding:0 3rem 1.5rem 3rem;
-   
+    height:100%;
 }
 #container a{
     color:white;
