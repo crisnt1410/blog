@@ -4,6 +4,8 @@
     margin:0;
     padding:0;
     scroll-behavior: smooth;
+    max-width: 100%;
+    max-height: 100%;
 }
 html {
     cursor: url("https://1.bp.blogspot.com/-qbWo9mPKO2Y/YL9utYdQBdI/AAAAAAAAFs4/mtjGu6u2uGwtJsT4gZG4lbhLV1a5lG6OQCLcBGAsYHQ/s0/mouse-f1.png"), auto;
